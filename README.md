@@ -17,10 +17,10 @@ The dashboard helps HR teams understand attrition patterns.
 
 ## 📁 Files in this Repository
 - HR_Analytics_Employee_Attrition.pbix – Power BI dashboard
-- dashboard.png – Dashboard screenshot
+- screenshot.png – Dashboard screenshot
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard]"C:\Users\gadha\OneDrive\Desktop\power bi project\Screenshot (238).png"
 
 ## 👤 Author
 Gadha S Panicker
