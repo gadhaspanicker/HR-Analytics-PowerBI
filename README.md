@@ -20,7 +20,7 @@ The dashboard helps HR teams understand attrition patterns.
 - screenshot.png – Dashboard screenshot
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](dashboard.pg)
+![HR Analytics Dashboard](dashboard.png)
 
 ## 👤 Author
 Gadha S Panicker
